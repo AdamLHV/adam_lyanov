@@ -1,0 +1,185 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 50px;
+    font-family: 'Inter';
+}
+
+.nav{
+    height: 112px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.img{
+    width: 86px;
+    height: 46px;
+    
+}
+
+.logo{
+    width: 86px;
+    height: 46px;
+}
+
+ul{
+    display: flex;
+    column-gap: 66px;
+}
+
+li{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.nav_menu{
+    margin-top: 16px;
+}
+
+.box{
+    height: 676px;
+    width: 1600px;
+     background-color: #5667FF;
+     display: flex;
+     justify-content: space-between;
+}
+
+.f_section{
+   width: 800px;
+}
+
+.s_section{
+    width: 800px;
+    background: url("../img/block.png");
+}
+
+h3{
+    width: 123px;
+    height: 53px;
+    font-size: 45px;
+    margin-bottom: 51px;
+    display: flex;
+}
+
+.content{
+    margin-left: 200px;
+    color: white;
+    margin-top: 150px;
+}
+
+.content p{
+    width: 470px;
+}
+
+.content :nth-child(2){
+    margin-bottom: 30px;
+}
+
+h2{
+    margin-top: 150px;
+    margin-bottom: 50px;
+    width: 198px;
+    height: 53px;
+    font-size: 45px;
+    font-family: 'Jura';
+}
+
+.cards{
+    display:flex;
+    column-gap: 60px;
+}
+
+.picture_man{
+    height: 290px;
+    margin-bottom: 19px;
+}
+
+.info_card{
+    width: 360px;
+    height: 372px;
+    
+}
+
+.name{
+    display: block;
+    height: 30px;
+    font-size: 25px;
+}
+
+.post{
+    font-size: 18px;
+    height: 22px;
+    opacity: 0.7;
+}
+
+.cards_two{
+    margin-top: 40px;
+    display:flex;
+    column-gap: 60px;
+}
+
+.main{
+    margin-top: 150px;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer_one{
+    width: 359px;
+    height: 269px;
+}
+
+.footer_three{
+    margin-top: 70px;
+}
+
+span{
+    display: block;
+}
+
+.contacts{
+    width: 121px;
+    height: 30px;
+    font-size: 25px;
+    font-weight: 500;
+    margin-bottom: 40px;
+}
+
+.RI{
+    width: 253px;
+    height: 66px;
+    margin-top: 22px;
+    margin-bottom: 22px;
+}
+
+.number{
+    margin-bottom: 22px;
+}
+
+h5{
+    margin-bottom: 22px;
+}
+
+.telegram{
+    margin-bottom: 22px;
+}
+
+.instagram{
+    margin-bottom: 22px;
+}
+
+.last{
+    margin-top: 50px;
+}
